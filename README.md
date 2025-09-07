@@ -19,4 +19,4 @@ Here’s a glimpse of my Trello board:
 
 ## 🔗 Live Trello Board
 👉 Check out the full project here:  
-**[🌿 My Vegetable Garden Trello Project](https://trello.com/b/Y6d3ujHt/my-vegatables-garden)** 
+**[Smart-Task-Manager-Trello-Project]([https://trello.com/b/Y6d3ujHt/my-vegatables-garden](https://github.com/mdprince007/-Smart-Task-Manager-Trello-Project/tree/main))** 
