@@ -19,4 +19,5 @@ Here’s a glimpse of my Trello board:
 
 ## 🔗 Live Trello Board
 👉 Check out the full project here:  
-**[Smart-Task-Manager-Trello-Project]([https://trello.com/b/Y6d3ujHt/my-vegatables-garden](https://github.com/mdprince007/-Smart-Task-Manager-Trello-Project/tree/main))** 
+
+**[Smart-Task-Manager-Trello-Project]( https://github.com/mdprince007/-Smart-Task-Manager-Trello-Project)**  
