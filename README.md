@@ -1,4 +1,4 @@
-# -Smart-Task-Manager-Trello-Project
+# Smart-Task-Manager-Trello-Project
 Welcome to my Smart Task Manager App project!   I used Trello to build a smart and organized system for task management.   This project helped me learn how to apply project management tools and make workflows more efficient.  
 ## 📌 Project Overview
 The goal of this project was to create a **task manager** that can handle priorities, track progress, and make teamwork easier.  
