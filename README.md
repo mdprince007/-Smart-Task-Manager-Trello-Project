@@ -21,3 +21,34 @@ Here’s a glimpse of my Trello board:
 👉 Check out the full project here:  
 
 **[Smart-Task-Manager-Trello-Project]( https://github.com/mdprince007/-Smart-Task-Manager-Trello-Project)**  
+
+## 🛠 Tools & Skills Used
+
+🧩 Trello – Project planning & tracking
+
+📂 GitHub – Documentation & sharing
+
+📈 Project Management – Task breakdown, prioritization, progress tracking
+
+## 🌟 Key Learnings
+
+🌟 Breaking down big tasks into smaller ones makes progress easier to achieve
+🌟 Visual tools like Trello keep motivation high
+🌟 Deadlines + priorities = better productivity
+
+## 📚 Next Steps
+
+🚀 What’s next for me:
+
+Apply Trello to academic & professional projects
+
+Explore automation (Butler) for smarter workflows
+
+Continue improving organization & productivity
+
+✨ **Thank you for visiting my project!**  
+If you have feedback or ideas, I’d love to hear from you.  
+
+# 🏷 Hashtags
+
+#Trello #ProjectManagement #Productivity #LearningJourney #GitHub
