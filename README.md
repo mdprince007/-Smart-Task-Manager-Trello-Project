@@ -14,6 +14,9 @@ Trello helped me stay organized and made the entire process productive and inter
 - 🤝 **Collaboration Tools** → Card linking, comments, file attachments, code snippets  
 
 ## 📷 Screenshots
+Here’s a glimpse of my Trello board:  
 <img width="1162" height="504" alt="Dashboard" src="https://github.com/mdprince007/-Smart-Task-Manager-Trello-Project/blob/main/Smart%20Task%20Manager%20App.png" />
-```html
-<img width="1162" height="504" alt="Dashboard" src="screenshot-link-here.png" /> 
+
+## 🔗 Live Trello Board
+👉 Check out the full project here:  
+**[🌿 My Vegetable Garden Trello Project](https://trello.com/b/Y6d3ujHt/my-vegatables-garden)** 
